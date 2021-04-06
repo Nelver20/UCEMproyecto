@@ -4,14 +4,14 @@
   padding: 0;
 }
 body{
-background-color: aqua;
+background-color:rgb(255, 241, 241);
 
 }
 .menu-container{
   display:flex;
   justify-content: center;
   align-items: center;
-  background-color: teal;
+  background-color:skyblue;
   height: 90px;
 
   .menu-list{
@@ -21,8 +21,10 @@ background-color: aqua;
     justify-content: space-around;
     a{
     text-decoration:none ;
-    font-size: 40px;
+    font-size: 20px;
     color: rgb(10, 10, 10);
+
+
     }
   }
 }

@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: aqua;
+  background-color: #fff1f1;
 }
 
 .menu-container {
@@ -18,7 +18,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: teal;
+  background-color: skyblue;
   height: 90px;
 }
 
@@ -37,7 +37,7 @@ body {
 
 .menu-container .menu-list a {
   text-decoration: none;
-  font-size: 40px;
+  font-size: 20px;
   color: #0a0a0a;
 }
 /*# sourceMappingURL=main.css.map */
